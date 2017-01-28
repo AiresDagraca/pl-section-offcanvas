@@ -5,13 +5,13 @@
   Description: A simple off canvas menu.
 
   Author:      iHeart PageLines
-  Version:     1.0.1
+  Version:     2.1
 
   PageLines:   PL_Section_Off_Canvas
   Tags:         menu, offcanvas
 
   Category:     framework, sections
-  Filter:       component
+  Filter:       nav
 
 */
 
