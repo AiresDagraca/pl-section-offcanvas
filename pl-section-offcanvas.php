@@ -5,7 +5,7 @@
   Description: A simple off canvas menu.
 
   Author:      iHeart PageLines
-  Version:     2.1
+  Version:     2.3
 
   PageLines:   PL_Section_Off_Canvas
   Tags:         menu, offcanvas
